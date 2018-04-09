@@ -1,5 +1,5 @@
 # webloc
-Creating .webloc file
+Creating .webloc file for MacOS
 
 ## Usage
 
