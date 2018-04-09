@@ -1,0 +1,2 @@
+# webloc
+Creating .webloc file
